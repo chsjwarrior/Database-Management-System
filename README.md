@@ -4,7 +4,7 @@ Not all commands are working, because a changed the program and i lose code
 
 CREATE DATABASE MyDatabase;
 
-SET DATABASE MyDatabase; // thsi is equals USE My
+SET DATABASE MyDatabase; // this is equals USE MyDatabase
 
 CREATE TABLE Employees (
 id INTEGER PRIMARY KEY,
